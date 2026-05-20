@@ -10,9 +10,8 @@
     <section>
       <h2 class="text-3xl font-bold text-emerald-800 border-b-2 border-emerald-100 pb-2 mb-4">About the Author: Cal Armistead</h2>
       <div class="flex flex-col md:flex-row gap-6 items-start">
-        <div class="w-full md:w-1/3 bg-stone-200 rounded-lg flex items-center justify-center overflow-hidden shadow-inner">
-           <img src="../assets/cal-armistead.jpg" alt="Photograph of Cal Armistead" class="w-full h-auto object-cover fallback-bg" onerror="this.style.display='none'" />
-          <span class="absolute text-stone-400 italic p-4 text-center -z-10">[Add cal-armistead.jpg to src/assets]</span>
+        <div class="w-full md:w-1/3 bg-stone-200 rounded-lg flex items-center justify-center overflow-hidden shadow-inner py-4">
+          <img src="../assets/cal-armistead.jpg" alt="Photograph of Cal Armistead" class="w-[75%] m-auto h-auto object-cover rounded-md shadow-sm" onerror="this.style.display='none'" />
         </div>
         <div class="w-full md:w-2/3">
           <p class="leading-relaxed text-lg text-stone-700 mb-4">
